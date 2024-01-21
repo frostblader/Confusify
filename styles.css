@@ -5,3 +5,7 @@ body
 	background-color: dimgrey;
 	text-align: center;
      }
+h1 
+     {
+	     size: 40px;
+     }
