@@ -1,6 +1,7 @@
 body 
      {
-	font-style: capitalize;
-	color: red;
+	text-transform: capitalize;
+	color: grey;
 	background-color: dimgrey;
+	text-align: center;
      }
